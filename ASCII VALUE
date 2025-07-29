@@ -1,0 +1,14 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in); // Create Scanner to read input
+        int n= sc.nextInt();                // Read an integer and store in variable D
+        char a = (char)n;
+        System.out.print(a);
+    }
+}
